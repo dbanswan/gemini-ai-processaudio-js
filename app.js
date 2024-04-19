@@ -5,7 +5,7 @@ const dotenv = require("dotenv").config();
 
 const googleAI = new GoogleGenerativeAI(process.env.API_KEY);
 
-async function convertAudioToBase64(path) {
+function convertAudioToBase64(path) {
   try {
     return {
       inlineData: {
@@ -29,7 +29,7 @@ async function generateTextFromAudio(audio) {
 }
 
 async function run() {
-  let audio = await convertAudioToBase64("Armstrong_Small_Step.ogg");
+  let audio = convertAudioToBase64("Armstrong_Small_Step.ogg");
   let text = await generateTextFromAudio(audio);
   console.log(text);
 }

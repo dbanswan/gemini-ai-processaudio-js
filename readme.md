@@ -12,6 +12,20 @@ The audio describes the iconic moment of Neil Armstrong's first steps on the Moo
 
 ```
 
+# Next time it gets more adventorous
+
+```
+The audio clip you shared appears to capture a momentous event in human history: the first steps taken on the Moon by astronaut Neil Armstrong during the Apollo 11 mission in 1969.
+
+Here's a breakdown of the audio:
+
+* **Background noise:** The initial seconds are filled with static and indistinct sounds, likely from the communication equipment and the lunar module itself.
+* **Instructions:**  A voice, presumably from mission control, instructs Neil Armstrong to "step off the LEM now," referring to the Lunar Excursion Module, the spacecraft that landed on the Moon.
+* **Silence:** A brief pause follows, building anticipation for the historic moment.
+* **Neil Armstrong's famous quote:**  The astronaut utters the iconic words, "That's one small step for man, one giant leap for mankind," marking the first human footstep on the lunar surface.
+* **End of clip:** The audio concludes shortly after the quote, leaving the listener to imagine the scene and the significance of the event.
+```
+
 Without even giving any hint of what's in the audio, it describes the audio pretty accurately.
 
 ## Steps to run this project:
